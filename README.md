@@ -3,7 +3,7 @@
 
 # 使用方法
 1.环境：python2.7，需要安装BeautifulSoup（pip install bs4）和requests（pip install requests）两个库
-2.运行：python getAllWx.py
+    2.运行：python getAllWx.py
 
 # 更新说明
 定期维护
